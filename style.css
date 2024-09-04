@@ -1,0 +1,17 @@
+body{
+    text-align: left;
+    background-color: #1e1e1e;
+    color: #dddddd;
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+}
+
+.whole{
+    width: 66%;
+}
+
+ul{
+    display: table;
+    text-align: left;
+}
